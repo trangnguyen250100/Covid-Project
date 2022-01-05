@@ -1,4 +1,4 @@
--- THIS IS THE COVID DATASET UNTIL 2021/11/23
+-- THIS IS THE COVID DATASET
 
 set sql_safe_updates = 0; 
 
