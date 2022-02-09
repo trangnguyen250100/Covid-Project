@@ -2,8 +2,6 @@
 
 set sql_safe_updates = 0; 
 
-s = 0; 
-
 -- IMPORT DATA FROM CSV FILES
 
 create table covid_vaccination 
@@ -41,7 +39,6 @@ fields terminated by ','
 enclosed by '"'
 lines terminated by '\n'
 ignore 1 rows; 
-
 
 -----------------------------------------------------------------------------------------------------
 
