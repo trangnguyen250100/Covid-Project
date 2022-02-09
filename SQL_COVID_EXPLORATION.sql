@@ -1,6 +1,6 @@
 -- THIS IS THE COVID DATASET
 
-set sql_safe_up
+set sql_safe_updates = 0; 
 
 s = 0; 
 
